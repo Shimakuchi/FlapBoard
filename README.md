@@ -17,7 +17,7 @@ FlapBoard works offline. No account or companion app is needed.
 
 ## Download and install
 
-Download the disk image attached to the latest release in this repository. Open it, then double-click **FlapBoard.saver** and follow the macOS installation dialog. The included **Installation.txt** walks you through choosing FlapBoard and opening its settings.
+[Download FlapBoard for Mac](https://github.com/Shimakuchi/FlapBoard/releases/latest/download/FlapBoard-1.0.0-Mac.dmg). Open it, then double-click **FlapBoard.saver** and follow the macOS installation dialog. The included **Help – English.txt** walks you through choosing FlapBoard and opening its settings. German instructions are provided separately in **Hilfe – Deutsch.txt**.
 
 The download is signed with Developer ID and notarized by Apple. Release assets include a SHA-256 checksum.
 
@@ -45,7 +45,7 @@ FlapBoard bringt eine mechanische Klappanzeige auf deinen Mac: als Uhr oder für
 
 **Kostenlos für private Nutzung.** Für berufliche oder gewerbliche Nutzung [kontaktiere uns bitte](https://gutmann.app/kontakt/).
 
-Voraussetzung: **macOS 14 oder neuer**, Apple Silicon oder Intel. Lade das Disk-Image aus dem neuesten Release herunter, öffne **FlapBoard.saver** und folge dem Installationsdialog. Die Datei **Installation.txt** erklärt Einrichtung und Einstellungen auf Deutsch und Englisch.
+Voraussetzung: **macOS 14 oder neuer**, Apple Silicon oder Intel. Lade das Disk-Image aus dem neuesten Release herunter, öffne **FlapBoard.saver** und folge dem Installationsdialog. Die Datei **Hilfe – Deutsch.txt** erklärt Einrichtung und Einstellungen auf Deutsch. Die englische Anleitung liegt separat als **Help – English.txt** bei.
 
 Updates installierst du auf demselben Weg mit **Ersetzen**; deine Einstellungen bleiben erhalten. Einen automatischen Updater gibt es in dieser Version nicht.
 
