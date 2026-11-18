@@ -2,6 +2,8 @@
 
 A mechanical split-flap screen saver for your clock or a few words of your own — with optional flap sounds.
 
+![FlapBoard showing a custom message, the clock and a full split-flap refresh](media/flapboard-demo.webp)
+
 **Free for personal use.** For business or commercial use, please [contact us](https://gutmann.app/en/kontakt/).
 
 The free version includes:
@@ -20,16 +22,6 @@ FlapBoard works offline. No account or companion app is needed.
 [Download FlapBoard for Mac](https://github.com/Shimakuchi/FlapBoard/releases/latest/download/FlapBoard-1.0.0-Mac.dmg). Open it, then double-click **FlapBoard.saver** and follow the macOS installation dialog. The included **Help – English.txt** walks you through choosing FlapBoard and opening its settings. German instructions are provided separately in **Hilfe – Deutsch.txt**.
 
 The download is signed with Developer ID and notarized by Apple. Release assets include a SHA-256 checksum.
-
-## Screenshots
-
-Clock with date and seconds in the Mechanical design.
-
-![FlapBoard clock with date and seconds](screenshots/clock.png)
-
-Your own text, displayed on the same split-flap board.
-
-![FlapBoard displaying the custom text HELLO WORLD](screenshots/custom-text.png)
 
 ## Updates
 
