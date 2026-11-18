@@ -21,6 +21,16 @@ FlapBoard works offline. No account or companion app is needed.
 
 The download is signed with Developer ID and notarized by Apple. Release assets include a SHA-256 checksum.
 
+## Screenshots
+
+FlapBoard displaying a custom message in the macOS screen saver preview.
+
+<img src="screenshots/macos-preview.png" alt="FlapBoard displaying HELLO WORLD in the macOS screen saver preview" width="500">
+
+The download includes installation instructions and separate English and German help files.
+
+<img src="screenshots/installation.png" alt="FlapBoard disk image with installation instructions and separate English and German help files" width="762">
+
 ## Updates
 
 Install a newer version the same way and choose **Replace** when asked. Your saved settings are retained. Check this repository for new releases; this version does not include an automatic updater.
