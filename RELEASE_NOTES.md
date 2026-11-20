@@ -25,4 +25,3 @@ Die erste FlapBoard-Version für Mac zeigt eine Uhr oder einen eigenen Text mit 
 Das feste Layout erscheint auf deinem Hauptbildschirm. Optional wird die Anzeige leicht verschoben; alle vier Minuten laufen sämtliche Klappen einmal durch. Die Einstellungen erscheinen auf Deutsch oder Englisch. FlapBoard funktioniert auch offline.
 
 Ab macOS 14, für Apple Silicon und Intel. Mit Developer ID signiert und von Apple notarisiert. Anzeigeverschiebung und Klappendurchlauf garantieren keinen Schutz vor OLED-Einbrennen und ersetzen keine Hersteller-Pflegeprogramme.
-
