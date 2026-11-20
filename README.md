@@ -23,9 +23,9 @@ FlapBoard works offline. No account or companion app is needed.
 
 ### Download and install
 
-[Download FlapBoard for Mac](https://github.com/Shimakuchi/FlapBoard/releases/download/v1.0.0/FlapBoard-1.0.0-Mac.dmg). Open it, then double-click **FlapBoard.saver** and follow the macOS installation dialog. The included **Help – English.txt** walks you through choosing FlapBoard and opening its settings. German instructions are provided separately in **Hilfe – Deutsch.txt**.
+[Download FlapBoard for Mac](https://github.com/Shimakuchi/FlapBoard/releases/download/v1.0.0/FlapBoard-1.0.0-Mac-r3.dmg). Open it, then double-click **FlapBoard.saver** and follow the macOS installation dialog. The included **Help – English.txt** walks you through choosing FlapBoard and opening its settings. German instructions are provided separately in **Hilfe – Deutsch.txt**.
 
-The download is signed with Developer ID and notarized by Apple. Release assets include a SHA-256 checksum.
+The download is signed with Developer ID and notarized by Apple. The r3 download has its own **SHA256SUMS-r3.txt** checksum file in the release assets.
 
 ### Updates
 
@@ -60,9 +60,9 @@ FlapBoard funktioniert offline. Du brauchst weder ein Konto noch eine zusätzlic
 
 ### Herunterladen und installieren
 
-[FlapBoard für Mac herunterladen](https://github.com/Shimakuchi/FlapBoard/releases/download/v1.0.0/FlapBoard-1.0.0-Mac.dmg). Öffne das Disk-Image, starte **FlapBoard.saver** per Doppelklick und folge dem Installationsdialog. Die Datei **Hilfe – Deutsch.txt** erklärt Einrichtung und Einstellungen auf Deutsch. Die englische Anleitung liegt separat als **Help – English.txt** bei.
+[FlapBoard für Mac herunterladen](https://github.com/Shimakuchi/FlapBoard/releases/download/v1.0.0/FlapBoard-1.0.0-Mac-r3.dmg). Öffne das Disk-Image, starte **FlapBoard.saver** per Doppelklick und folge dem Installationsdialog. Die Datei **Hilfe – Deutsch.txt** erklärt Einrichtung und Einstellungen auf Deutsch. Die englische Anleitung liegt separat als **Help – English.txt** bei.
 
-Der Download ist mit Developer ID signiert und von Apple notarisiert. Im Release liegt eine SHA-256-Prüfsumme bei.
+Der Download ist mit Developer ID signiert und von Apple notarisiert. Für den r3-Download liegt im Release die eigene Prüfsummendatei **SHA256SUMS-r3.txt** bei.
 
 ### Updates
 
